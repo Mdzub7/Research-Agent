@@ -137,5 +137,5 @@ The AI Research Agent successfully demonstrates the power of combining IBM watso
 
 ## ‍ Author
 
-*   **Student Name:** [Your Name]
-*   **College:** [Your College/University]
+*   **Student Name:** Mohammed Zubair A
+*   **College:** Sir M. Visvesvaraya Institute of Technology
