@@ -2,7 +2,7 @@
 
 This capstone project introduces an AI Research Agent designed to revolutionize the academic research process. By leveraging Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG), this agent assists researchers and students in navigating the vast landscape of academic literature, automating tedious tasks and accelerating the pace of discovery.
 
-![Agent Preview](Preview.png)
+![Agent Preview](images/Preview.png)
 
 ---
 
@@ -57,7 +57,7 @@ This project is built on a foundation of cutting-edge technologies from IBM Clou
 *   IBM Cloud watsonx.ai Runtime
 *   IBM Cloud Agent Lab
 
-![IBM Resources](Resources.png)
+![IBM Resources](images/Resources.png)
 
 ---
 
@@ -67,31 +67,31 @@ Here is a visual walkthrough of the AI Research Agent in action.
 
 ### Initial Preview
 A glimpse into the agent's user interface.
-![Agent Preview 1](Preview1.png)
+![Agent Preview 1](images/Preview1.png)
 
 ### Working Preview
 The agent processing a research query.
-![Actual Preview](Actual%20preview.png)
+![Actual Preview](images/Actual%20preview.png)
 
 ### Detailed Interaction
 A closer look at the agent's features.
-![Actual Preview 1](Actual%20preview1.png)
+![Actual Preview 1](images/Actual%20preview1.png)
 
 ### Summarization Feature
 The agent generating a summary of a selected paper.
-![Actual Preview 2](Actual%20preview2.png)
+![Actual Preview 2](images/Actual%20preview2.png)
 
 ### Deployment View 0
 The initial deployment screen of the application.
-![Deployed View 0](Deplyed0.png)
+![Deployed View 0](images/Deplyed0.png)
 
 ### Deployment View 1
 The agent's interface post-deployment.
-![Deployed View 1](Deployed1.png)
+![Deployed View 1](images/Deployed1.png)
 
 ### Deployment View 2
 Another view of the deployed and functioning agent.
-![Deployed View 2](Deployed2.png)
+![Deployed View 2](images/Deployed2.png)
 
 ---
 
@@ -123,10 +123,10 @@ The following certifications were earned during the course of this project, demo
 
 | Certificate Name                      | Badge Image                                     |
 | ------------------------------------- | ----------------------------------------------- |
-| Getting Started with AI               | ![Getting Started Badge](GettingstartedwithAIMDZ.png) |
-| Journey to Cloud                      | ![Journey to Cloud Badge](JourneytoCloud.png)         |
-| Code Generation and Optimization      | ![Code Gen Badge](CodeGenerationandOptimization.png)  |
-| Retrieval-Augmented Generation (RAG)  | ![RAG Badge](RAGMDZ.png)                        |
+| Getting Started with AI               | ![Getting Started Badge](images/GettingstartedwithAIMDZ.png) |
+| Journey to Cloud                      | ![Journey to Cloud Badge](images/JourneytoCloud.png)         |
+| Code Generation and Optimization      | ![Code Gen Badge](images/CodeGenerationandOptimization.png)  |
+| Retrieval-Augmented Generation (RAG)  | ![RAG Badge](images/RAGMDZ.png)                        |
 
 ---
 
